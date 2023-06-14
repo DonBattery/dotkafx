@@ -18,123 +18,123 @@ Profiles:
 
     Events:
 
-    # "First Bounty Runes":
-    #   SoundEffect: "bounty_runes_appeared"
-    #   Offset: 0
-    #   FirstHappensAt: 0
-    #   Interval: 2m
-    #   Repeats: 1
+      # "First Bounty Runes":
+      #   SoundEffect: "bounty_runes_appeared"
+      #   Offset: 0
+      #   FirstHappensAt: 0
+      #   Interval: 2m
+      #   Repeats: 1
 
-    "Bounty Runes":
-      SoundEffect: "bounty_runes_appeared"
-      Offset: 0
-      FirstHappensAt: 3m
-      Interval: 3m
-      Repeats: 0
+      "Bounty Runes":
+        SoundEffect: "bounty_runes_appeared"
+        Offset: 0
+        FirstHappensAt: 3m
+        Interval: 3m
+        Repeats: 0
 
-    "Water Runes":
-      SoundEffect: "water_runes_appeared"
-      Offset: 0
-      FirstHappensAt: 2m
-      Interval: 2m
-      Repeats: 2
+      "Water Runes":
+        SoundEffect: "water_runes_appeared"
+        Offset: 0
+        FirstHappensAt: 2m
+        Interval: 2m
+        Repeats: 2
 
-    "Power Rune":
-      SoundEffect: "power_rune_appeared"
-      Offset: 0
-      FirstHappensAt: 6m
-      Interval: 2m
-      Repeats: 0
+      "Power Rune":
+        SoundEffect: "power_rune_appeared"
+        Offset: 0
+        FirstHappensAt: 6m
+        Interval: 2m
+        Repeats: 0
 
-    "Wisdom Runes":
-      SoundEffect: "wisdom_runes_appeared"
-      Offset: 0
-      FirstHappensAt: 7m
-      Interval: 7m
-      Repeats: 0
+      "Wisdom Runes":
+        SoundEffect: "wisdom_runes_appeared"
+        Offset: 0
+        FirstHappensAt: 7m
+        Interval: 7m
+        Repeats: 0
 
-    "Lotuses":
-      SoundEffect: "lotuses_appeared"
-      Offset: 0
-      FirstHappensAt: 3m
-      Interval: 90s
-      Repeats: 0
+      "Lotuses":
+        SoundEffect: "lotuses_appeared"
+        Offset: 0
+        FirstHappensAt: 1m30s
+        Interval: 1m30s
+        Repeats: 0
 
-    "Level 1 Tokens":
-      SoundEffect: "level_one_tokens_are_available"
-      Offset: 0
-      FirstHappensAt: 3m30s
-      Interval: 0
-      Repeats: 1
+      "Level 1 Tokens":
+        SoundEffect: "level_one_tokens_are_available"
+        Offset: 0
+        FirstHappensAt: 3m30s
+        Interval: 0
+        Repeats: 1
 
-    "Level 2 Tokens":
-      SoundEffect: "level_two_tokens_are_available"
-      Offset: 0
-      FirstHappensAt: 8m30s
-      Interval: 0
-      Repeats: 1
+      "Level 2 Tokens":
+        SoundEffect: "level_two_tokens_are_available"
+        Offset: 0
+        FirstHappensAt: 8m30s
+        Interval: 0
+        Repeats: 1
 
-    "Level 3 Tokens":
-      SoundEffect: "level_three_tokens_are_available"
-      Offset: 0
-      FirstHappensAt: 13m30s
-      Interval: 0
-      Repeats: 1
+      "Level 3 Tokens":
+        SoundEffect: "level_three_tokens_are_available"
+        Offset: 0
+        FirstHappensAt: 13m30s
+        Interval: 0
+        Repeats: 1
 
-    "Level 4 Tokens":
-      SoundEffect: "level_four_tokens_are_available"
-      Offset: 0
-      FirstHappensAt: 18m20s
-      Interval: 0
-      Repeats: 1
+      "Level 4 Tokens":
+        SoundEffect: "level_four_tokens_are_available"
+        Offset: 0
+        FirstHappensAt: 18m20s
+        Interval: 0
+        Repeats: 1
 
-    "Level 5 Tokens":
-      SoundEffect: "level_five_tokens_are_available"
-      Offset: 0
-      FirstHappensAt: 30m
-      Interval: 0
-      Repeats: 1
+      "Level 5 Tokens":
+        SoundEffect: "level_five_tokens_are_available"
+        Offset: 0
+        FirstHappensAt: 30m
+        Interval: 0
+        Repeats: 1
 
-    "Aghanim's Shard":
-      SoundEffect: "aghanims_shard_unlocked"
-      Offset: 0
-      FirstHappensAt: 7m30s
-      Interval: 0
-      Repeats: 1
+      "Aghanim's Shard":
+        SoundEffect: "aghanims_shard_unlocked"
+        Offset: 0
+        FirstHappensAt: 7m30s
+        Interval: 0
+        Repeats: 1
 
-    "Status Items Upgrade":
-      SoundEffect: "status_items_upgraded"
-      Offset: 0
-      FirstHappensAt: 12m
-      Interval: 0
-      Repeats: 1
+      "Status Items Upgrade":
+        SoundEffect: "status_items_upgraded"
+        Offset: 0
+        FirstHappensAt: 12m
+        Interval: 0
+        Repeats: 1
 
-    "Infused Raindrops":
-      SoundEffect: "infused_raindrops_unlocked"
-      Offset: 0
-      FirstHappensAt: 1m30s
-      Interval: 0
-      Repeats: 1
+      "Infused Raindrops":
+        SoundEffect: "infused_raindrops_unlocked"
+        Offset: 0
+        FirstHappensAt: 1m30s
+        Interval: 0
+        Repeats: 1
 
-    "Tormentors":
-      SoundEffect: "tormentors_appeared"
-      Offset: 0
-      FirstHappensAt: 10m
-      Interval: 10m
-      Repeats: 0
+      "Tormentors":
+        SoundEffect: "tormentors_appeared"
+        Offset: 0
+        FirstHappensAt: 10m
+        Interval: 10m
+        Repeats: 0
 
-    "Roshan goes top":
-      SoundEffect: "roshan_goes_top"
-      Offset: 0
-      FirstHappensAt: 5m
-      Interval: 10m
-      Repeats: 0
+      "Roshan goes top":
+        SoundEffect: "roshan_goes_top"
+        Offset: 0
+        FirstHappensAt: 5m
+        Interval: 10m
+        Repeats: 0
 
-    "Roshan goes bottom":
-      SoundEffect: "roshan_goes_bottom"
-      Offset: 0
-      FirstHappensAt: 10m
-      Interval: 10m
-      Repeats: 0
+      "Roshan goes bottom":
+        SoundEffect: "roshan_goes_bottom"
+        Offset: 0
+        FirstHappensAt: 10m
+        Interval: 10m
+        Repeats: 0
 
 ...
