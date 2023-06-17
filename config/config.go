@@ -27,7 +27,7 @@ func GetConfigData(defaultConfig []byte) ([]byte, error) {
 		log.Warn("Failed to read config file in Home folder: %s", err)
 	}
 
-	if err := os.WriteFile(configFilePath, []byte(defaultConfig), 0644); err != nil {
+	if err := os.WriteFile(configFilePath, defaultConfig, 0644); err != nil {
 		return nil, err
 	}
 
